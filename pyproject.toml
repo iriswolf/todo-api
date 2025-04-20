@@ -1,0 +1,10 @@
+[tool.poetry]
+name = "todo-api"
+version = "0.0.1"
+description = ""
+authors = ["Abramov Evgeniy <61637662+iriswolf@users.noreply.github.com>"]
+readme = "README.md"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
